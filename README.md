@@ -9,7 +9,7 @@ _This webpage let's a user find out how many times a inputted word is used in th
 
 ## Setup/Installation Requirements
 
-* _Open in a browser_
+* _Open https://honest-crown-84087.herokuapp.com/ in a browser_
 
 ## Known Bugs
 * Protozoa
